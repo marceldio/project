@@ -1,1 +1,1 @@
-print("Hello, my wonderfull world!")
+Hello Linux
