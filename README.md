@@ -1,1 +1,1 @@
-I am changing the text in this file
+This is my first test project. I'm learning to use github.
